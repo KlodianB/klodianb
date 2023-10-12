@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Klodian</h1>
-<h3 align="center">A passionate fullstack developer from New York</h3>
+<h3 align="center">A passionate fullstack developer from New York and an avid sports fan with a love for the NY Knicks, video gaming, and teamwork. I seek roles celebrating innovation and pushing boundaries. If you value technical skill blended with leadership and empathy, let's connect!</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: https://www.linkedin.com/in/klodian-behrami/</h3>
 <p align="left">
 </p>
 
